@@ -1,0 +1,44 @@
+{
+  "name": "Obsidian AI - Ahmed",
+  "short_name": "Obsidian",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#07070b",
+  "theme_color": "#4a6ae8",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/",
+  "description": "Obsidian AI - tumhara strict AI mentor",
+  "orientation": "portrait-primary",
+  "shortcuts": [
+    {
+      "name": "Naya Chat",
+      "url": "/"
+    }
+  ]
+}
